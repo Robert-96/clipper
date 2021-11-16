@@ -1,0 +1,2 @@
+# clipper
+A zsh theme.
