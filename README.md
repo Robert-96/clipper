@@ -2,6 +2,8 @@
 
 Clipper is a minimalist zsh theme with git support. It displays pwd, status code and git status & branch.
 
+![Screenshot](/screenshots/screenshot.png "Screenshot")
+
 ## Install
 
 1. Copy `clipper.zsh-theme` into the `~/.oh-my-zsh/custom/themes/` directory (simply create the themes directory if it does not exist).
